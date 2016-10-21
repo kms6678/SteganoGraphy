@@ -1,0 +1,64 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Properties="clr-namespace:WpfSteganography.Properties" x:Class="WpfSteganography.MainWindow"
+        Title="MainWindow" Height="410" Width="779.914" Background="{x:Null}" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="410" VerticalAlignment="Top" Width="779" Margin="1,0,0,0">
+            <Grid.Background>
+                <ImageBrush ImageSource="리소스 완성/background.png"/>
+            </Grid.Background>
+            <Label x:Name="button_crypto_before" Content="" HorizontalAlignment="Left" Height="80" Margin="0,330,0,0" VerticalAlignment="Top" Width="257" BorderThickness="3" BorderBrush="#FF2768DA" MouseEnter="button_crypto_before_MouseEnter">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/crypto_before.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="button_extract_before" Content="" HorizontalAlignment="Left" Height="80" Margin="262,330,0,0" VerticalAlignment="Top" Width="257" BorderThickness="3" BorderBrush="#FFFF99C3" MouseEnter="button_extract_before_MouseEnter">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/extract_before.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="button_watermarking_befoer" Content="" HorizontalAlignment="Left" Height="80" Margin="524,330,0,0" VerticalAlignment="Top" Width="255" BorderThickness="3" BorderBrush="#FFECDB6B" MouseEnter="button_watermarking_befoer_MouseEnter">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/watermarking_before.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="MainWindow_main" HorizontalAlignment="Left" Height="262" Margin="0,55,0,0" VerticalAlignment="Top" Width="350" TabIndex="2147483646" IsEnabled="False" IsHitTestVisible="True" FontWeight="ExtraBlack" Foreground="{x:Null}">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/main_1.png"/>
+                </Label.Background>
+                <Properties:Resources/>
+            </Label>
+            <Label Content="" HorizontalAlignment="Left" Height="280" Margin="355,46,0,0" VerticalAlignment="Top" Width="424">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/main_2.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="button_exit" Content="" HorizontalAlignment="Left" Height="41" Margin="741,0,0,0" VerticalAlignment="Top" Width="38" MouseLeftButtonDown="Label_MouseLeftButtonDown">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/exit.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="button_info" Content="" Height="47" Margin="198,242,534,0" VerticalAlignment="Top" MouseLeftButtonDown="button_info_MouseLeftButtonDown" RenderTransformOrigin="0.683,-0.204">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/info.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="button_crypto_aft" Content="" HorizontalAlignment="Left" Height="88" Margin="0,322,0,0" VerticalAlignment="Top" Width="257" BorderThickness="3" BorderBrush="#FF2768DA" MouseLeave="button_crypto_aft_MouseLeave" MouseLeftButtonDown="button_crypto_aft_MouseLeftButtonDown" Visibility="Hidden">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/crypto_after.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="button_extract_aft" Content="" HorizontalAlignment="Left" Height="88" Margin="262,322,0,0" VerticalAlignment="Top" Width="257" BorderThickness="3" BorderBrush="#FFFF99C3" MouseLeave="button_extract_aft_MouseLeave" MouseLeftButtonDown="button_extract_aft_MouseLeftButtonDown" Visibility="Hidden">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/extract_after.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="button_watermarking_aft" Content="" HorizontalAlignment="Left" Height="88" Margin="524,322,0,0" VerticalAlignment="Top" Width="255" BorderThickness="3" BorderBrush="#FFECDB6B" MouseLeave="button_watermarking_aft_MouseLeave" MouseLeftButtonDown="button_watermarking_aft_MouseLeftButtonDown" Visibility="Hidden">
+                <Label.Background>
+                    <ImageBrush ImageSource="리소스 완성/watermarking_after.png"/>
+                </Label.Background>
+            </Label>
+        </Grid>
+    </Grid>
+</Window>

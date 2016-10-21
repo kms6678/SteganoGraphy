@@ -1,0 +1,148 @@
+C:\Users\김호섭\C#\WpfSteganography\bin\Debug\WpfSteganography.exe.config
+C:\Users\김호섭\C#\WpfSteganography\bin\Debug\WpfSteganography.exe
+C:\Users\김호섭\C#\WpfSteganography\bin\Debug\WpfSteganography.pdb
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WpfSteganography.csprojResolveAssemblyReference.cache
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\Choose.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\MainWindow.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoImage1.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoImage2.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoSound1.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoSound2.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WaterMarking.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\Choose.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\MainWindow.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoImage1.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoImage2.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoSound1.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoSound2.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WaterMarking.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\App.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WpfSteganography_MarkupCompile.cache
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WpfSteganography.g.resources
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WpfSteganography.Properties.Resources.resources
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WpfSteganography.csproj.GenerateResource.Cache
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WpfSteganography.exe
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WpfSteganography.pdb
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\informationWindow.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\informationWindow.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoImage1Extract.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoImage2Extract.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoSound1Extract.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoSound2Extract.baml
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoImage1Extract.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoImage2Extract.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoSound1Extract.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\SteganoSound2Extract.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\김호섭\C#\WpfSteganography\obj\Debug\WpfSteganography_MarkupCompile.lref
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\bin\Debug\WpfSteganography.exe.config
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WpfSteganography.exe
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WpfSteganography.pdb
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\bin\Debug\WpfSteganography.exe
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\bin\Debug\WpfSteganography.pdb
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WpfSteganography.csprojResolveAssemblyReference.cache
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\Choose.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\informationWindow.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoImage1.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoImage2.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoImage1Extract.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoImage2Extract.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoSound1.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoSound1Extract.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoSound2.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoSound2Extract.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WaterMarking.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\Choose.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\informationWindow.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\MainWindow.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoImage1.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoImage2.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoImage1Extract.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoImage2Extract.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoSound1.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoSound1Extract.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoSound2.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\SteganoSound2Extract.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WaterMarking.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\App.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WpfSteganography_MarkupCompile.cache
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WpfSteganography_MarkupCompile.lref
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\MainWindow.baml
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WpfSteganography.g.resources
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WpfSteganography.Properties.Resources.resources
+C:\Users\김문섭\Documents\Visual Studio 2013\Projects\WpfSteganography\obj\Debug\WpfSteganography.csproj.GenerateResource.Cache
+D:\프로젝트\WpfSteganography\bin\Debug\WpfSteganography.exe.config
+D:\프로젝트\WpfSteganography\obj\Debug\WpfSteganography.exe
+D:\프로젝트\WpfSteganography\obj\Debug\WpfSteganography.pdb
+D:\프로젝트\WpfSteganography\bin\Debug\WpfSteganography.exe
+D:\프로젝트\WpfSteganography\bin\Debug\WpfSteganography.pdb
+D:\프로젝트\WpfSteganography\obj\Debug\WpfSteganography.csprojResolveAssemblyReference.cache
+D:\프로젝트\WpfSteganography\obj\Debug\Choose.baml
+D:\프로젝트\WpfSteganography\obj\Debug\informationWindow.baml
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoImage1.baml
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoImage2.baml
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoImage1Extract.baml
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoImage2Extract.baml
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoSound1.baml
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoSound1Extract.baml
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoSound2.baml
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoSound2Extract.baml
+D:\프로젝트\WpfSteganography\obj\Debug\WaterMarking.baml
+D:\프로젝트\WpfSteganography\obj\Debug\Choose.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\informationWindow.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\MainWindow.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoImage1.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoImage2.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoImage1Extract.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoImage2Extract.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoSound1.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoSound1Extract.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoSound2.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\SteganoSound2Extract.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\WaterMarking.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\App.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\프로젝트\WpfSteganography\obj\Debug\WpfSteganography_MarkupCompile.cache
+D:\프로젝트\WpfSteganography\obj\Debug\WpfSteganography_MarkupCompile.lref
+D:\프로젝트\WpfSteganography\obj\Debug\MainWindow.baml
+D:\프로젝트\WpfSteganography\obj\Debug\WpfSteganography.g.resources
+D:\프로젝트\WpfSteganography\obj\Debug\WpfSteganography.Properties.Resources.resources
+D:\프로젝트\WpfSteganography\obj\Debug\WpfSteganography.csproj.GenerateResource.Cache
+C:\Users\김문섭\Downloads\WpfSteganography\bin\Debug\WpfSteganography.exe.config
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WpfSteganography.exe
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WpfSteganography.pdb
+C:\Users\김문섭\Downloads\WpfSteganography\bin\Debug\WpfSteganography.exe
+C:\Users\김문섭\Downloads\WpfSteganography\bin\Debug\WpfSteganography.pdb
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WpfSteganography.csprojResolveAssemblyReference.cache
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\Choose.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\informationWindow.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoImage1.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoImage2.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoImage1Extract.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoImage2Extract.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoSound1.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoSound1Extract.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoSound2.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoSound2Extract.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WaterMarking.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\Choose.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\informationWindow.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\MainWindow.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoImage1.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoImage2.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoImage1Extract.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoImage2Extract.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoSound1.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoSound1Extract.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoSound2.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\SteganoSound2Extract.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WaterMarking.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\App.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WpfSteganography_MarkupCompile.cache
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WpfSteganography_MarkupCompile.lref
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\MainWindow.baml
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WpfSteganography.g.resources
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WpfSteganography.Properties.Resources.resources
+C:\Users\김문섭\Downloads\WpfSteganography\obj\Debug\WpfSteganography.csproj.GenerateResource.Cache

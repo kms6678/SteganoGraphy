@@ -1,0 +1,30 @@
+﻿<Window x:Name="Window_Choose" x:Class="WpfSteganography.Choose"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Choose" Height="300" Width="300" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="{x:Null}" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="리소스 완성/choose_window.png"/>
+        </Grid.Background>
+        <Grid x:Name="button_imageimage" HorizontalAlignment="Left" Height="135" Margin="158,0,0,0" VerticalAlignment="Top" Width="142" MouseLeftButtonDown="button_imageimage_MouseLeftButtonDown">
+            <Grid.Background>
+                <ImageBrush ImageSource="리소스 완성/2번.png"/>
+            </Grid.Background>
+        </Grid>
+        <Grid x:Name="button_imagetext" HorizontalAlignment="Left" Height="135" VerticalAlignment="Top" Width="142" MouseLeftButtonDown="button_imagetext_MouseLeftButtonDown">
+            <Grid.Background>
+                <ImageBrush ImageSource="리소스 완성/1번.png"/>
+            </Grid.Background>
+        </Grid>
+        <Grid x:Name="button_soundimage" HorizontalAlignment="Left" Height="136" Margin="167,164,0,0" VerticalAlignment="Top" Width="133" MouseLeftButtonDown="button_soundimage_MouseLeftButtonDown">
+            <Grid.Background>
+                <ImageBrush ImageSource="리소스 완성/4번.png"/>
+            </Grid.Background>
+        </Grid>
+        <Grid x:Name="button_soundtext" HorizontalAlignment="Left" Height="136" Margin="0,164,0,0" VerticalAlignment="Top" Width="142" MouseLeftButtonDown="button_soundtext_MouseLeftButtonDown">
+            <Grid.Background>
+                <ImageBrush ImageSource="리소스 완성/3번.png"/>
+            </Grid.Background>
+        </Grid>
+    </Grid>
+</Window>
